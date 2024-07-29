@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------------------------------------
+Abertura de Caso
+----------------------------------------------------------------------------------------------------------------------------------
+
+Nome: 
+CNPJ: 
+Telefone: 
+E-mail: 
+Número do chamado: 
+Relato e Analise do problema: 
+
+Pesquisa de palavras chaves nas plataformas internas (Share Teams Whatsapp Se conseguiu levantar alguma informação ou não): 
+Prints e Logs: 
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+Esclarecimento final (cliente vai ver isso)
+---------------------------------------------------------------------------------------------------------------------------------- 
+ 
+Sr(a). IIINomeIII realizamos os seguintes processos para solução do atendimento #IIIICódigoIIII: 
+ 
+IIIIIDescriçãoIIIIII 
+ 
+Em breve chegará em seu e-mail uma pesquisa para avaliar sua experiência com meu atendimento. 
+ 
+Por favor responda. Sua opinião é muito importante para nós! 
+ 
+O atendimento poderá ser reaberto dentro do prazo de 2 dias corridos. 
+ 
+(Após esta data favor acionar a central de atendimento para abertura de um novo protocolo)
+
+
+
